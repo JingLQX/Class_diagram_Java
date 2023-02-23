@@ -1,1 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T20:18:12.439Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.20" etag="IeHIe7f0Uu-xzPBk4Rsg" type="github"><diagram name="Page-1" id="fZlvxSGU4UfuhdbIEfzS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-23T06:19:22.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CDoTO_gCdKMBPqoZ3p4l" version="20.8.20" type="github">
+  <diagram name="Page-1" id="fZlvxSGU4UfuhdbIEfzS">
+    <mxGraphModel dx="953" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Monopoly:Game&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;d1 = 6&lt;br&gt;d2 = 2&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-2" target="T18tHPo4iJTbT7zbEoDh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-2" target="T18tHPo4iJTbT7zbEoDh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-2" target="T18tHPo4iJTbT7zbEoDh-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Boris:Player&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = Boris&lt;br&gt;credit = 900&lt;br&gt;position = 24&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;round = 2&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-3" target="T18tHPo4iJTbT7zbEoDh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-3" target="T18tHPo4iJTbT7zbEoDh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-3" target="T18tHPo4iJTbT7zbEoDh-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Candy:Player&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name = Candy&lt;br&gt;credit = 600&lt;br&gt;position = 4&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;round = 3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-4" target="T18tHPo4iJTbT7zbEoDh-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-4" target="T18tHPo4iJTbT7zbEoDh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-4" target="T18tHPo4iJTbT7zbEoDh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Candy&#39;s property:Property&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;propertyList={Pall Mall, Whitehall, Seven Sisters Road}&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="470" width="305" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-6" target="T18tHPo4iJTbT7zbEoDh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-6" target="T18tHPo4iJTbT7zbEoDh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Boris&#39; property:Property&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;propertyList={Downing Street, Central Station}&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-70" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Downing Street:PropertyTile&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;position = 24&lt;br&gt;name = Downing Street&lt;br&gt;cost= 350&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-160" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Central Station:PropertyTile&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;position = 18&lt;br&gt;name = Central Station&lt;br&gt;cost= 550&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-50" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Pall Mall:PropertyTile&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;position = 7&lt;br&gt;name = Pall Mall&lt;br&gt;cost= 250&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Whitehall:PropertyTile&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;position = 12&lt;br&gt;name = Whitehall&lt;br&gt;cost= 500&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="465" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Seven Sisters Road:PropertyTile&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;position = 1&lt;br&gt;name = Seven Sisters Road&lt;br&gt;cost= 350&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T18tHPo4iJTbT7zbEoDh-28" target="T18tHPo4iJTbT7zbEoDh-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-28" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;tileList:Board&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-31" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Class&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T18tHPo4iJTbT7zbEoDh-34" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Tile&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
