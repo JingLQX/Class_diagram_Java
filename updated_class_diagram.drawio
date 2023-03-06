@@ -1,3 +1,4 @@
+<mxfile host="app.diagrams.net" modified="2023-03-06T21:52:33.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="S8I8tKBivMDYHAwijOOJ" type="github"><diagram name="Page-1" id="ZI-DnWNV4uHUMu_slczt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.genmymodel.ecoreonline.graphic="http://com.genmymodel.ecoreonline.graphic/2.0" xmlns:com.genmymodel.graphic.uml="http://com.genmymodel.ecoreonline.graphic.uml/1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
   <uml:Model xmi:id="_MSctsGq4EeuyzKg_X9-Fsg" name="oop monopoly">
@@ -6852,3 +6853,4 @@
     </packagedElement>
   </uml:Model>
 </xmi:XMI>
+ </diagram></mxfile>
