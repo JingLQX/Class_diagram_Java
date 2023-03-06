@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.genmymodel.ecoreonline.graphic="http://com.genmymodel.ecoreonline.graphic/2.0" xmlns:com.genmymodel.graphic.uml="http://com.genmymodel.ecoreonline.graphic.uml/1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
   <uml:Model xmi:id="_MSctsGq4EeuyzKg_X9-Fsg" name="oop monopoly">
     <xmi:Extension extender="http://www.eclipse.org/emf/2002/Ecore">
